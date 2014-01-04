@@ -111,3 +111,7 @@ ul.posts span {
     border: 1px solid #4c964d;
     color: #FFF; 
 }
+
+blockquote > p {
+    font-size: 110%;
+}
