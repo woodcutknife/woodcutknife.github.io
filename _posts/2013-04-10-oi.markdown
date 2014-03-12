@@ -2,7 +2,7 @@
 layout: post
 title:  "那些年，我們一起追過的OI"
 date:   2013-04-10 23:00:00
-categories: 競賽歷程
+categories: 競賽
 tags: [OI, NOIP, NOI, CTSC]
 ---
 
