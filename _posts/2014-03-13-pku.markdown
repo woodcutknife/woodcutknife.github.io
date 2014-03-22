@@ -3,7 +3,6 @@ layout: post
 title:  "初入燕園 I"
 date:   2014-03-13 01:18:00
 categories: 日常
-tags: []
 ---
 
 莫名其妙就又到了半夜。
